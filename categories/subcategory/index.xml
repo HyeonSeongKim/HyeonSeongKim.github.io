@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>subcategory on Hugo tranquilpeak theme</title>
-    <link>https://example.org/categories/subcategory/</link>
+    <link>https://hyeonseongkim.github.io/categories/subcategory/</link>
     <description>Recent content in subcategory on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2020 11:39:23 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 11:49:30 +0900</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hyeonseongkim.github.io/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Test1</title>
+      <link>https://hyeonseongkim.github.io/2020/03/test1/</link>
+      <pubDate>Wed, 18 Mar 2020 11:49:30 +0900</pubDate>
+      
+      <guid>https://hyeonseongkim.github.io/2020/03/test1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Test</title>
-      <link>https://example.org/2020/03/test/</link>
+      <link>https://hyeonseongkim.github.io/2020/03/test/</link>
       <pubDate>Wed, 18 Mar 2020 11:39:23 +0900</pubDate>
       
-      <guid>https://example.org/2020/03/test/</guid>
+      <guid>https://hyeonseongkim.github.io/2020/03/test/</guid>
       <description></description>
     </item>
     
